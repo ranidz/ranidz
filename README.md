@@ -4,7 +4,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ### 📊 My GitHub Metrics
 
-![My Detailed GitHub Metrics](metrics.svg)
+![My Detailed GitHub Metrics](github-metrics.svg)
 
 ## 🚀 About Me
 
