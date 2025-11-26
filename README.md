@@ -6,6 +6,9 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
     alt="GitHub Stats"
+    align="center"
+    decoding="async" 
+    loading="lazy"
   />
 
   <br/>
@@ -13,6 +16,9 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=vue-dark&hide_border=true"
     alt="Top Languages"
+    align="center"
+    decoding="async" 
+    loading="lazy"
   />
 </div>
 
