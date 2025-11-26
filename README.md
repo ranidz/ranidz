@@ -1,17 +1,17 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm [YOUR NAME HERE]! 👋
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
     alt="GitHub Stats"
   />
 
   <br/>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=vue-dark&hide_border=true"
     alt="Top Languages"
   />
 </div>
@@ -38,7 +38,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
@@ -48,17 +48,3 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
