@@ -1,40 +1,13 @@
-# Hi, I'm [YOUR NAME HERE]! 👋
-
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-### 📊 My GitHub Metrics
-
+# My GitHub Metrics
 ![My Detailed GitHub Metrics](github-metrics.svg)
 
-## 🚀 About Me
+## Technical Expertise
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+My technology stack is focused on building high-performance, scalable applications with clean, maintainable code. I work extensively with React for crafting interactive user interfaces and Vue.js for component-based frontend architectures. For styling, I utilize Tailwind CSS alongside traditional HTML and CSS to create responsive, modern designs that scale across devices.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+On the backend, I specialize in building robust systems using Express.js and NestJS for enterprise-grade Node.js applications, and Go with the Fiber framework for high-performance services with minimal resource overhead. I have experience with both monolithic and microservices architectures, understanding the trade-offs and design patterns for each approach. For inter-service communication, I work with gRPC for efficient, type-safe APIs and RabbitMQ for reliable message queuing and asynchronous processing. I also implement WebSockets for real-time, bidirectional communication in applications requiring live data updates.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+I prioritize type safety and code quality through TypeScript and Java, ensuring maintainable codebases. Additionally, I work with Tauri to develop lightweight, secure desktop applications that bridge web technologies with native performance.
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
-## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Beyond implementation, I am deeply invested in understanding core computer science concepts and software engineering principles. I am also actively exploring artificial intelligence and machine learning, integrating AI-driven solutions into modern applications to solve complex problems and enhance user experiences.
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,vue,go,express,nestjs,nextjs,java,ts,tauri,dart,flutter)](https://skillicons.dev)
