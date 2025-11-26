@@ -1,0 +1,32 @@
+name: GitHub Metrics Generation
+
+# 📅 This workflow runs on a schedule (daily at 00:00 UTC) 
+# and also runs manually when you click the "Run workflow" button on GitHub
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  # 👷 Job to generate and update the metrics
+  metrics-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 🔑 Required to commit the generated image back to the repo
+
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} 
+          
+          output_payload: metrics.svg 
+          
+          base: activity, community, metadata, repositories 
+          
+          config_display: columns
+          config_octocat: yes
+          config_timezone: Europe/Paris
+          
+          plugin_languages: yes
+          plugin_isocalendar: yes
+          
