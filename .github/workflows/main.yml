@@ -1,0 +1,10 @@
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  
+  # ➡️ ADD THIS SECTION for the daily schedule and manual run
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+  workflow_dispatch:
