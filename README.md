@@ -10,4 +10,4 @@ On the backend, I specialize in building robust systems using Express.js and Nes
 I prioritize type safety and code quality through TypeScript and Java, ensuring maintainable codebases. Additionally, I work with Tauri to develop lightweight, secure desktop applications that bridge web technologies with native performance.
 
 Beyond implementation, I am deeply invested in understanding core computer science concepts and software engineering principles. I am also actively exploring artificial intelligence and machine learning, integrating AI-driven solutions into modern applications to solve complex problems and enhance user experiences.
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,vue,go,express,nestjs,nextjs,java,ts,tauri,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,vue,nextjs,d3,figma,go,express,nestjs,java,ts,dart,flutter,tauri,supabase,firebase,mongodb,mysql,redis,prisma,graphql,rabbitmq,bun,git,docker,latex)](https://skillicons.dev)
