@@ -20,6 +20,8 @@ Beyond implementation, I am deeply invested in understanding core computer scien
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![D3](https://skillicons.dev/icons?i=d3)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Tauri](https://skillicons.dev/icons?i=tauri)](https://skillicons.dev)
+
 
 ## Backend
 [![Go](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
@@ -29,7 +31,6 @@ Beyond implementation, I am deeply invested in understanding core computer scien
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Dart](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-[![Tauri](https://skillicons.dev/icons?i=tauri)](https://skillicons.dev)
 
 ## Database
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
